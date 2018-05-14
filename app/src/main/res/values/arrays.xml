@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="major">
+        <item>aaaa</item>
+        <item>bbbb</item>
+        <item>cccc</item>
+        <item>dddd</item>
+    </string-array>
+
+
+    <string-array name="year">
+        <item>2019</item>
+        <item>2018</item>
+        <item>2017</item>
+        <item>2016</item>
+    </string-array>
+
+
+    <string-array name="term">
+        <item>1</item>
+        <item>Summer</item>
+        <item>2</item>
+        <item>Winter</item>
+    </string-array>
+
+
+    <string-array name="graduateArea">
+        <item>aaaa</item>
+        <item>bbbb</item>
+        <item>cccc</item>
+        <item>dddd</item>
+    </string-array>
+
+    <string-array name="universityArea">
+        <item>zzzz</item>
+        <item>xxxx</item>
+        <item>wwwww</item>
+        <item>yyyy</item>
+    </string-array>
+
+    <string-array name="graduateMajor">
+        <item>a</item>
+        <item>b</item>
+        <item>c</item>
+        <item>d</item>
+    </string-array>
+
+    <string-array name="universityRefinementMajor">
+        <item>aa</item>
+        <item>bb</item>
+        <item>cc</item>
+        <item>dd</item>
+    </string-array>
+
+    <string-array name="universityMajor">
+        <item>aaa</item>
+        <item>bbb</item>
+        <item>ccc</item>
+        <item>ddd</item>
+    </string-array>
+
+    <string-array name="rank">
+        <item>all</item>
+        <item>part</item>
+        <item>male</item>
+        <item>female</item>
+    </string-array>
+
+
+
+</resources>
