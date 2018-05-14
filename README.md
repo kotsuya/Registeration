@@ -1,3 +1,3 @@
 # Registeration
 
-- Android TEST with PHP
+- Android TEST with PHP, mysql
